@@ -1,6 +1,7 @@
   Hi , I'm Kübra👋
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Data Science and Machine Learning
+- 📝 I regularly write articles on https://medium.com/@kubrabilinmis
 - 📫 How to reach me kubrabilinmiss@gmail.com
 
 <!--
