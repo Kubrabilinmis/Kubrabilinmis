@@ -3,11 +3,6 @@
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 📝 I regularly write articles on https://medium.com/@kubrabilinmis
 
-#-connect-with-me
-kubrabilinmiss@gmail.com
-linkedin.com/in/kübrabilinmiş 
-https://www.kaggle.com/kubrabilinmis
-https://medium.com/@kubrabilinmis
 
 <!--
 **Kubrabilinmis/Kubrabilinmis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
